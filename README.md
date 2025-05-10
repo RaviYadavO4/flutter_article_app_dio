@@ -95,8 +95,6 @@ No error retry button (yet)
       <strong>📄 Article Detail View</strong><br>
       <img src="screenshots/detail_screen.jpeg" width="150" height="300"/>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <strong>🔍 Search Functionality</strong><br>
       <img src="screenshots/search_screen.jpeg" width="150" height="300"/>
